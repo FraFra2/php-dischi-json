@@ -1,0 +1,166 @@
+{
+  "Albums": {
+    "Album": [
+      {
+        "id": "1",
+        "title": "Danger",
+        "artista": "Nitro",
+        "genere": "Hardcore Hip Hop",
+        "anno": "2014",
+        "cover": "https://i.discogs.com/kRUMRFuoKx1P1N-NRUMXRP9SUM9Vh0ksKa4OnirL89o/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDc5/MTAtMTQzMzkwMDA0/OS03OTk1LmpwZWc.jpeg"
+      },
+      {
+        "id": "2",
+        "title": "Suicidol",
+        "artista": "Nitro",
+        "genere": "Hip Hop",
+        "anno": "2015",
+        "cover": "https://i.discogs.com/mkyqMnRay9IC-5x9oVq2uXRhlcN9TElmskbXbvFRMhg/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzAy/MTItMTQzNDM4ODcz/NS05OTk5LmpwZWc.jpeg"
+      },
+      {
+        "id": "3",
+        "title": "Hellvisback",
+        "artista": "Salmo",
+        "genere": "Hip Hop",
+        "anno": "2016",
+        "cover": "https://i.discogs.com/5Do-4eTalRFwL927nRH6Vd0n_ITIK6Zg7urz2olpJns/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzMy/MDgtMTQ1NDYxODQ4/Mi03NDE3LmpwZWc.jpeg"
+      },
+      {
+        "id": "4",
+        "title": "Come Uccidere Un Usignolo/67",
+        "artista": "Ernia",
+        "genere": "Hip Hop",
+        "anno": "2017",
+        "cover": "https://i.discogs.com/ZJ4RH74mSHGwpLZiUdGd2KZCAO87e9EbARA36hKFTQ8/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDc3/MTMzLTE1MzYwNjQ1/ODAtNjc4Ny5qcGVn.jpeg"
+      },
+      {
+        "id": "5",
+        "title": "Mr. Simpatia",
+        "artista": "Fabri Fibra",
+        "genere": "Hip Hop",
+        "anno": "2005",
+        "cover": "https://i.discogs.com/YWZzDMUzGarV1kgyAKwT8LSHMOfi-nf_z653kCkiJes/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTU4/MzQtMTQ1NDUyMzQy/Ni0yMDgzLmpwZWc.jpeg"
+      },
+      {
+        "id": "6",
+        "title": "Back Home",
+        "artista": "Madman",
+        "genere": "Hip Hop",
+        "anno": "2018",
+        "cover": "https://i.discogs.com/wxOomS7DJwUEAeTMUmDPkbS5rvUKTheov6ejzmg46gk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTA1/NTM5LTE1MTc1MzU2/MDctODE3MS5qcGVn.jpeg"
+      },
+      {
+        "id": "7",
+        "title": "Doom",
+        "artista": "Nayt",
+        "genere": "Hip Hop",
+        "anno": "2021",
+        "cover": "https://i.discogs.com/SizUNERz6AyyF-ObTDlQa4hcTziaUiuntBFwM56eii4/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDU0/MjUzLTE2Mzc0MTM0/MjUtNTU1Ny5qcGVn.jpeg"
+      },
+      {
+        "id": "8",
+        "title": "Habitat",
+        "artista": "Nayt",
+        "genere": "Hip Hop",
+        "anno": "2023",
+        "cover": "https://i.discogs.com/Kk22JErKsYFBwbw9yu8v5GIz8XGbT1BNk6wXVyRHvhw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDU5/NTY0LTE2ODc0NDk5/MjEtODk3My5qcGVn.jpeg"
+      },
+      {
+        "id": "9",
+        "title": "QVC9",
+        "artista": "Gemitaiz",
+        "genere": "Hip Hop",
+        "anno": "2020",
+        "cover": "https://i.discogs.com/O_U2qvCpFWMSHe0lxXZEj-SNyNX70UTKyEP3rUFNspE/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQy/NzMxLTE2MDU4NzIy/NzMtNDE2NC5qcGVn.jpeg"
+      },
+      {
+        "id": "10",
+        "title": "Aletheia",
+        "artista": "Izi",
+        "genere": "Hip Hop",
+        "anno": "2019",
+        "cover": "https://i.discogs.com/ULGIHyZxgOWwsPVbe8hkQFFwouytatjGecQUk5gv3KI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjI0/MDcwLTE1NTc3NTEw/MjMtODY2Ny5qcGVn.jpeg"
+      },
+      {
+        "id": "11",
+        "title": "Scialla Semper",
+        "artista": "Massimo Pericolo",
+        "genere": "Hip Hop",
+        "anno": "2019",
+        "cover": "https://i.discogs.com/itszXeSHLMiJoAPv0lOTL8LGzEfnrx-0DmeAegfEPEM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQ3/Nzk2LTE1NTQzOTUx/MDUtNTcwMC5qcGVn.jpeg"
+      },
+      {
+        "id": "12",
+        "title": "Persona",
+        "artista": "Marracash",
+        "genere": "Hip Hop",
+        "anno": "2019",
+        "cover": "https://i.discogs.com/BReAEYtQGsUHLEiguzJLfdxHg8VksSWEWz4SRHrVLJU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzg2/NDU3LTE1NzM0ODM5/NTgtNTg4Ni5qcGVn.jpeg"
+      },
+      {
+        "id": "13",
+        "title": "Noi, Loro, Gli Altri",
+        "artista": "Marracash",
+        "genere": "Hip Hop",
+        "anno": "2021",
+        "cover": "https://i.discogs.com/I_C9YDUsBkSO_3ojxicvk7avA50NC-n6mfapNb20bQI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTU3/ODY3LTE2MzgxMjY1/NjItNjYyOC5qcGVn.jpeg"
+      },
+      {
+        "id": "14",
+        "title": "Regardez Moi",
+        "artista": "Marracash",
+        "genere": "Hip Hop",
+        "anno": "2017",
+        "cover": "https://i.discogs.com/sk3rKW2KqCWIcsc3Xr87mjTZjJ0xZVH9-YM99SBbEm8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI4/MjA1LTE1MTIzMDAy/MzItMTAwOS5qcGVn.jpeg"
+      },
+      {
+        "id": "15",
+        "title": "Trauma",
+        "artista": "Psicologi",
+        "genere": "Hip Hop Pop",
+        "anno": "2022",
+        "cover": "https://i.discogs.com/7pW4GHowfNDnJ35zddtJPGQF5j5i6NQuei6CW2OX_Zo/rs:fit/g:sm/q:90/h:567/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDYz/NzcxLTE2NTEzMjIy/NDAtMjMyNC5qcGVn.jpeg"
+      },
+      {
+        "id": "16",
+        "title": "Magica Musica",
+        "artista": "Venerus",
+        "genere": "Indie Pop Ambient Jazz-Rock",
+        "anno": "2021",
+        "cover": "https://i.discogs.com/mnSb94zy_RmrX2fk1H7Wsomf0NZMDCeIanb7z6BLY3s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDg2/MDk4LTE2MTM3Mjky/ODMtNDE2Ni5qcGVn.jpeg"
+      },
+      {
+        "id": "17",
+        "title": "OBE",
+        "artista": "Mace",
+        "genere": "Electronic Hip Hop",
+        "anno": "2021",
+        "cover": "https://i.discogs.com/H-zDNf4FSe6AtT0sqzINPUgtNRNZAqb5FpxKFtCzNzM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzI1/MDk0LTE2MTI4MTg2/MTItMjQ1Mi5qcGVn.jpeg"
+      },
+      {
+        "id": "18",
+        "title": "Circles",
+        "artista": "Mac Miller",
+        "genere": "Hip Hop Funk / Soul Blues",
+        "anno": "2021",
+        "cover": "https://i.discogs.com/-Cq1NLkCM-inLcEhOEQTBdY1Sgvg3QkC2-kU_STKDFA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDI4/MTQ3LTE2MzcyNDMw/MjEtNTkxMC5qcGVn.jpeg"
+      },
+      {
+        "id": "19",
+        "title": "Orange County California",
+        "artista": "Tedua",
+        "genere": "Hip Hop",
+        "anno": "2017",
+        "cover": "https://i.discogs.com/Jsj6YKrSd6vpN5Hw4nNsFZI5eTvC6Ajxzabu134WA9E/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDE2/NTEwLTE0OTU2OTY2/NDUtNjc0My5qcGVn.jpeg"
+      },
+      {
+        "id": "20",
+        "title": "Oceano Paradiso",
+        "artista": "Chiello",
+        "genere": "Hip Hop Rock Pop",
+        "anno": "2021",
+        "cover": "https://i.discogs.com/o-r-siOgY0rM1h08NF4PUf2voI9DEljyQi2I_T7Dk_I/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODY3/NzMxLTE2MzYxNDkz/MzItNDc4OC5qcGVn.jpeg"
+      }
+    ]
+  }
+}
