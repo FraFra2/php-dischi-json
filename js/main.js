@@ -3,7 +3,7 @@ const { createApp } = Vue;
 createApp({
   data() {
     return {
-      data: [],
+      data: [], // Album data will be fetched
     };
   },
   methods: {
@@ -11,11 +11,20 @@ createApp({
       axios
         .get(url)
         .then((response) => {
-          this.data = response.data.Albums.Album;
+          // Initialize the 'flipped' property for each album
+          this.data = response.data.Albums.Album.map((album) => {
+            return {
+              ...album,
+              flipped: false,
+            };
+          });
         })
         .catch((error) => {
           console.error(error);
         });
+    },
+    toggleFlip(index) {
+      this.data[index].flipped = !this.data[index].flipped;
     },
   },
   created() {

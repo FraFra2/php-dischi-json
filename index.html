@@ -28,26 +28,36 @@
   </head>
   <body class="bg-[--background] text-[--text]">
     <div id="app">
-      <header class="flex gap-8 items-center text-6xl px-8 py-8">
+      <header
+        class="flex sticky z-10 top-0 gap-8 items-center text-6xl px-8 py-8 bg-[--background]"
+      >
         <h1>My Music Database</h1>
         <i class="fa-solid fa-compact-disc text-yellow-400"></i>
       </header>
       <div class="container mx-auto">
-        <div class="grid grid-cols-4 gap-8">
+        <div
+          class="grid gap-y-64 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-5 gap-8"
+        >
           <div
-            class="drop-shadow-2xl bg-[--primary] rounded-md"
+            class="card cursor-pointer drop-shadow-2xl text-center rounded-md"
             v-for="(album, index) in data"
+            :class="{ 'flipped': album.flipped }"
+            @click="toggleFlip(index)"
             :key="index"
           >
-            <ul>
-              <li>COVER</li>
-              <li>
-                <h1 class="">{{album.title}}</h1>
-              </li>
-              <li>{{album.artista}}</li>
-              <li>{{album.genere}}</li>
-              <li>{{album.anno}}</li>
-            </ul>
+            <div class="inner">
+              <div class="front">
+                <img class="w-full rounded-md" :src="album.cover" alt="" />
+              </div>
+              <div class="back h-full w-full">
+                <div class="flex flex-col items-center">
+                  <h1 class="text-5xl">{{album.title}}</h1>
+                  <h2 class="text-3xl">Artista: {{album.artista}}</h2>
+                  <h3 class="text-2xl">Genere: {{album.genere}}</h3>
+                  <h4 class="text-xl">Anno: {{album.anno}}</h4>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>

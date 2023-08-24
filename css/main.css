@@ -5,3 +5,22 @@
   --secondary: #2e180f;
   --accent: #c26c47;
 }
+
+.card {
+  perspective: 1000px;
+}
+.inner {
+  transition: transform 0.5s;
+  transform-style: preserve-3d;
+}
+.card.flipped .inner {
+  transform: rotateY(180deg);
+}
+.front,
+.back {
+  position: absolute;
+  backface-visibility: hidden;
+}
+.back {
+  transform: rotateY(180deg);
+}
